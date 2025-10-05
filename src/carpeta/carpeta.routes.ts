@@ -1,4 +1,4 @@
-import {findAll, findOne, add, remove, } from "./carpeta.controller.js";
+import { findAll, findOne, add, remove, } from "./carpeta.controller.js";
 import { Router } from 'express'
 
 const carpetaRouter = Router();
